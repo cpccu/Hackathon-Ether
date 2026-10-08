@@ -34,26 +34,7 @@
 
 <hr>
 
-<h2>📑 Table of Contents</h2>
 
-<ul>
-  <li><a href="#live-demo">Live Demo</a></li>
-  <li><a href="#demo-accounts">Demo Accounts</a></li>
-  <li><a href="#about">About CampusOS</a></li>
-  <li><a href="#features">Features</a></li>
-  <li><a href="#development-process">Development Process</a></li>
-  <li><a href="#modules">System Modules</a></li>
-  <li><a href="#tech-stack">Technology Stack</a></li>
-  <li><a href="#project-structure">Project Structure</a></li>
-  <li><a href="#installation">Installation</a></li>
-  <li><a href="#deployment">Deployment Requirements</a></li>
-  <li><a href="#security">Security</a></li>
-  <li><a href="#roadmap">Future Roadmap</a></li>
-  <li><a href="#developer">Developer</a></li>
-  <li><a href="#license">License</a></li>
-</ul>
-
-<hr>
 
 <h2 id="live-demo">🌐 Live Demo</h2>
 
